@@ -1,2 +1,2 @@
 # Java-Practice
-Some Java Practices
+A Basic Game Boss-Fight Encounter Manager with Threading
